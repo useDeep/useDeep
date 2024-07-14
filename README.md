@@ -7,7 +7,7 @@
 - 👨‍🏫 I'm looking for help in finding mentors to guide my software development career journey.
 - 💬 Ask me about anything tech or engineering in general.
 - 📫 How to reach me: Contacts below (preferably email)
-- ⚡ Intrests: Watches Cricket and F1, a quizzing enthusiast and a Team Coco fan.
+- ⚡ Interests: Watches Cricket and F1, a quizzing enthusiast and a Team Coco fan.
 
 <br/>
 
