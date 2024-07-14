@@ -1,15 +1,17 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning linux and its tools, backend and 
+- 🔭 I’m currently working on small tools for linux system.
+- 🌱 I’m currently learning linux and its tools, backend and docker.
 - 👯 I’m looking to collaborate on intresting projects, even those outside my comfort zone.
 - 👨‍🏫 I'm looking for help in finding mentors to guide my software development career journey.
-- 💬 Ask me about ... 
-- 📫 How to reach me: mail me 
-- ⚡ Fun fact: ...
+- 💬 Ask me about anything tech or engineering in general.
+- 📫 How to reach me: Contacts below (preferably email)
+- ⚡ Intrests: Watches Cricket and F1, a quizzing enthusiast and a Team Coco fan.
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<br/>
+
+## My Toolkit 🧰
 
 <h4> Languages </h4>
 <span> 
@@ -51,12 +53,13 @@
 <span>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+<img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black">
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 
 <h4> Data Tools </h4>
 <span>
-  <img src="Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 </span>
 
@@ -70,5 +73,21 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   
-
 </span>
+
+<br/>
+<br/>
+<br/>
+
+## Contact me 📬
+<p align="center">
+	<a href="https://usedeep.tech"><img src="https://img.shields.io/badge/🧑%20Personal%20site-008282?style=for-the-badge" alt="Personal Site"/></a>
+	<a href="mailto:hey.usedeep@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/useDeep"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.reddit.com/user/tyre_deg/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+	<a href="https://www.linkedin.com/in/deepak-gandepalli-464a19208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://stackoverflow.com/users/22387029/usedeep/"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+
+</p>
+
+
