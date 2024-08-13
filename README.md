@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on small tools for linux system.
+- 🔭 I’m currently working on building small tools for linux system.
 - 🌱 I’m currently learning linux and its tools, backend and docker.
 - 👯 I’m looking to collaborate on intresting projects, even those outside my comfort zone.
 - 👨‍🏫 I'm looking for help in finding mentors to guide my software development career journey.
