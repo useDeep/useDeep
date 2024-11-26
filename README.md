@@ -79,9 +79,9 @@
 <br/>
 <br/>
 
-## Contact me 📬
+## Connect with me 📬
 <p align="center">
-	<a href="https://usedeep.tech"><img src="https://img.shields.io/badge/🧑%20Personal%20site-008282?style=for-the-badge" alt="Personal Site"/></a>
+	<a href="https://usedeep.in"><img src="https://img.shields.io/badge/🧑%20Personal%20site-008282?style=for-the-badge" alt="Personal Site"/></a>
 	<a href="mailto:hey.usedeep@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/useDeep"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.reddit.com/user/tyre_deg/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
